@@ -18,7 +18,9 @@ Automatic merge failed; fix conflicts and then commit the result.`
 * ---
 * new branch: `$ git branch hotfix`
 * checkout new branch: `$ git checkout hotfix` or, shortform (creating and checkout): `$ git checkout -b hotfix`
-* git 
+* get status: `$ git status`
+* add modified, commit: `$ git add README.md && git commit -m "changed README"`
+* push local branch to remote repo: `$ git push -u origin hotfix`
 
 ## Git Tower
 
