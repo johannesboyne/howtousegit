@@ -14,5 +14,5 @@ howtousegit
 * clone git repo: ![Tower: clone repo](clone-remote-repo.png)
 * *modify README.md* ![Tower: modified](modified-local.png)
 * add modified: ![Tower: staging modified](staging-local.png)
-* commit: ![Tower: commit staged](commit-local.png) ![Tower: commit staged](commit-local2.png)
-* push: 
+* commit: ![Tower: commit staged](commit-local.png) ![Tower: commit staged](commit-local2.png) ![Tower: local-ahead now](local-ahead.png)
+* push: ![Tower: push button](push-btn.png) ![Tower: push info](push-info.png)
