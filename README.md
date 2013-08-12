@@ -8,6 +8,9 @@ howtousegit
 * add modified: `$ git add README.md`
 * commit: `$ git commit -m "README modified"`
 * push: `$ git push`
+* *remote repo has been updated*
+* pull: `$ git pull`
+* *merge conflict*
 
 ## Git Tower
 
