@@ -8,8 +8,14 @@ howtousegit
 * add modified: `$ git add README.md`
 * commit: `$ git commit -m "README modified"`
 * push: `$ git push`
-* *merge conflict occurs - lets fix this*
-* 
+* *remote repo has been updated*
+* pull: `$ git pull`
+* *merge conflict*
+* `Auto-merging README.md
+CONFLICT (content): Merge conflict in README.md
+Automatic merge failed; fix conflicts and then commit the result.`
+* `$ git mergetool -t opendiff` (or `git mergetool`)
+
 
 ## Git Tower
 
