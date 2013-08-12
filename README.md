@@ -11,6 +11,10 @@ howtousegit
 * *remote repo has been updated*
 * pull: `$ git pull`
 * *merge conflict*
+* `Auto-merging README.md
+CONFLICT (content): Merge conflict in README.md
+Automatic merge failed; fix conflicts and then commit the result.`
+* 
 
 ## Git Tower
 
