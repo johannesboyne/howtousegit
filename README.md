@@ -49,3 +49,7 @@ Automatic merge failed; fix conflicts and then commit the result.`
 * fetch remote branches: ![Tower: fetch remote branches](git-fetch.png)
 * merge branches: ![Tower: merge branches](merge-branches-btn.png) ![Tower: merge branches](merge-branches.png)
 * deleting branch: ![Tower: delete branch](delete-branch.png)
+
+## The Journey
+
+Look at the Graph: [https://github.com/johannesboyne/howtousegit/network](https://github.com/johannesboyne/howtousegit/network)
