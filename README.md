@@ -25,6 +25,8 @@ Automatic merge failed; fix conflicts and then commit the result.`
 * fetch remote branches: `$ git fetch`
 * show all branches: `$ git branch -r`
 * merge branches: `$ git merge origin/tower_hotfix` or if you pulled `$ git merge tower_hotfix`
+* `$ git checkout master` `$ git merge hotfix` `$ git branch -d hotfix`
+* deleting remote branch: `$ git push origin :hotfix`
 
 ## Git Tower
 
