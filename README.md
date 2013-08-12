@@ -21,6 +21,10 @@ Automatic merge failed; fix conflicts and then commit the result.`
 * get status: `$ git status`
 * add modified, commit: `$ git add README.md && git commit -m "changed README"`
 * push local branch to remote repo: `$ git push -u origin hotfix`
+* ---
+* fetch remote branches: `$ git fetch`
+* show all branches: `$ git branch -r`
+* merge branches: `$ git merge origin/tower_hotfix` or if you pulled `$ git merge tower_hotfix`
 
 ## Git Tower
 
