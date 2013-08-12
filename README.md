@@ -8,6 +8,8 @@ howtousegit
 * add modified: `$ git add README.md`
 * commit: `$ git commit -m "README modified"`
 * push: `$ git push`
+* *merge conflict occurs - lets fix this*
+* 
 
 ## Git Tower
 
