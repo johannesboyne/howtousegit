@@ -40,3 +40,10 @@ Automatic merge failed; fix conflicts and then commit the result.`
 * *merge conflict*
 * ![Tower: merge conflict](merge-fail.png)
 * ![Tower: open merge tool](open-merge-tool.png)
+* ---
+* new branch: ![Tower: new local branch](new-local-branch.png) ![Tower: new local branch](new-local-branch2.png)
+* push local branch to remote repo: ![Tower: publish local branch](publish-local-branch.png)
+* ---
+* fetch remote branches: ![Tower: fetch remote branches](git-fetch.png)
+* merge branches: ![Tower: merge branches](merge-branches-btn.png) ![Tower: merge branches](merge-branches.png)
+* deleting branch: ![Tower: delete branch](delete-branch.png)
