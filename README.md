@@ -15,7 +15,10 @@ howtousegit
 CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.`
 * `$ git mergetool -t opendiff` (or `git mergetool`)
-
+* ---
+* new branch: `$ git branch hotfix`
+* checkout new branch: `$ git checkout hotfix` or, shortform (creating and checkout): `$ git checkout -b hotfix`
+* git 
 
 ## Git Tower
 
