@@ -1,6 +1,8 @@
 howtousegit
 ===========
 
+*The slides for this repo will be uploaded soon...*
+
 ## CLI
 
 * clone git repo: `$ git clone https://github.com/johannesboyne/howtousegit.git`
